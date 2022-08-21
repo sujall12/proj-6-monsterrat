@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(216, 208, 208);
+}
+
+.navi-bar1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 8rem;
+    font-family: "Orbitron", Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.list-name{
+    display: flex;
+    gap: 55px;
+    font-family: "robotic", sans-serif;
+    font-size: large;
+    margin-left: -200px;
+    color: rgb(39, 35, 35);
+    margin-left: 90px;
+    margin-left: -10px;
+    
+}
+
+#navEnd{
+    display: flex;
+    gap: 40px;
+    margin-right: -97px;
+
+}
+
+
+#navFirst{
+    margin-left: -60px;
+}
+
+#imgMain{
+    margin-left: 63%;
+    
+    
+}
+
+#imgMain{
+    margin-top: -34rem ;
+    margin-bottom: 10%;
+}
+
+.text-1{
+    margin-left: 150px;
+    margin-top: 10%;
+    
+    
+}
+
+.text-2{
+    width: 400px;
+    font-family: "robotic", sans-serif;
+    color: rgb(65, 62, 62);
+    font-weight: bold;
+}
+
+.text-3{
+    font-family: "robotic", sans-serif;
+    color: rgb(65, 62, 62);
+    font-weight: bold;
+
+}
+
+#monstera{
+    font-size: 100px;
+    font-family: "robotic", sans-serif;
+
+}
+
+#midWholePart121{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+    color: #fff;
+    font-family: "robotic", sans-serif;
+    width: 240px;
+    padding: 15px;
+    background-color: #4b7f54;
+    margin: 150px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+.midWholePart13Parts{
+    display: flex;   
+}
+
+#midWholePart13{
+    display: flex;   
+}
+
+.text{
+    width: 250px;
+    
+}
+
+#midWholePart13{
+    margin-left: 70px;
+    margin-top: -100px;
+}
+
+#light{
+    margin-left: -40px;
+}
+
+#care{
+    margin-left: -40px;
+}
+
+#h4-1{
+    text-decoration: underline;
+    position: relative;
+   
+}
+
+
